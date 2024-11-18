@@ -1,5 +1,5 @@
 # Hi ! Moïen ! Hallo ! Bonjour ! Привет !
 
-![GIF](https://i.hessfr.fr/NIba7/HuruwaKu82.gif/raw)
+![GIF](itsmuffintime.gif)
 
 J'aime les muffins.
