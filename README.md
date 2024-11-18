@@ -22,6 +22,11 @@ How can you contact me ?
 
 My Portfolio : [valentinslr.com](https://valentinslr.com/)
 
+Project : 
+
+- [BloomPetal](https://github.com/valentin-soler/BloomPetal/) [(WebHosted version)](https://valentin-soler.github.io/BloomPetal/)
+- [Site de fan (in collaboration with @jeremy-lebon (Site de fan 2 & Contact page) and @abbas-ahmedmoussa (Site de fan 3))](https://github.com/valentin-soler/projet-fansite-groupe-1.1) [(WebHosted Version)](https://valentin-soler.github.io/projet-fansite-groupe-1.1/)
+
 
 
 
