@@ -1,4 +1,4 @@
-# Hi ! Moïen ! Hallo ! Bonjour ! Привет !
+# Hi ! Moïen ! Hallo ! Bonjour ! Привет ! أهلاً !
 
 My name in Valentin, I'm a french student at [La Plateforme_](https://laplateforme.io/), You can find all professional and educational stuff i made here ([for pesonnal stuff](https://github.com/VoXaN24))
 
