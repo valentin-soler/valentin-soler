@@ -18,6 +18,7 @@ How can you contact me ?
 - Instagram : [voxan2406](https://www.instagram.com/voxan2406/)
 - Mail : [valentin.soler@laplateforme.io](mailto:valentin.soler@laplateforme.io) ou [hello@valentinslr.com](mailto:hello@valentinslr.com)
 - X (Ex-Twitter) : [voxanv2](https://x.com/voxanv2)
+- Linkedin : [valentinsoler24](https://www.linkedin.com/in/valentinsoler24/)
 
 My Portfolio : [valentinslr.com](https://valentinslr.com/)
 ![GIF](itsmuffintime.gif)
