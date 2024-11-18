@@ -18,3 +18,7 @@ How can you contact me ?
 ![GIF](itsmuffintime.gif)
 
 J'aime les muffins.
+
+[![Les Stats GitHub de valentin-soler](https://github-readme-stats.vercel.app/api?username=valentin-soler&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-soler&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
