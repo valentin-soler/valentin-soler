@@ -1,6 +1,6 @@
 # Hi ! Moïen ! Hallo ! Bonjour ! Привет ! أهلاً !
 
-![Header](./your-header-image-name.png)
+![Header](github-header-image.png)
 
 My name in Valentin, I'm a French student at [La Plateforme_](https://laplateforme.io/), You can find all professional and educational stuff i made here ([for pesonnal stuff](https://github.com/VoXaN24))
 
