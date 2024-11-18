@@ -2,15 +2,15 @@
 
 ![Header](github-header-image.png)
 
-My name in Valentin, I'm a French student at [La Plateforme_](https://laplateforme.io/), You can find all professional and educational stuff i made here ([for pesonnal stuff](https://github.com/VoXaN24))
+My name in Valentin, I'm a French student at [La Plateforme_](https://laplateforme.io/), You can find all professional and educational stuff I made here ([for pesonnal stuff](https://github.com/VoXaN24))
 
-I personnaly host some service you can use (for non-commercial use only !)
+I personally host some service you can use (for non-commercial use only!)
 - [A PrivateBin Instance](https://p.hessfr.fr/)
 - [A ShareX Instance](https://i.hessfr.fr/)
 - [A Vaultwarden Instance](https://vault.hessfr.fr)
 - A Nextcloud Instance (Private)
 
-And maybe more in the futur (it depends of my needs !)
+And maybe more in the future (it depends on my needs!)
 
 How can you contact me ?
 - Discord : voxanv2
@@ -22,7 +22,7 @@ How can you contact me ?
 My Portfolio : [valentinslr.com](https://valentinslr.com/)
 ![GIF](itsmuffintime.gif)
 
-J'aime les muffins.
+I LOVE MUFFIN (time).
 
 [![Les Stats GitHub de valentin-soler](https://github-readme-stats.vercel.app/api?username=valentin-soler&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
