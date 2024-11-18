@@ -21,7 +21,16 @@ How can you contact me ?
 - Linkedin : [valentinsoler24](https://www.linkedin.com/in/valentinsoler24/)
 
 My Portfolio : [valentinslr.com](https://valentinslr.com/)
-![GIF](itsmuffintime.gif)
+
+
+
+
+https://github.com/user-attachments/assets/05373692-b5a2-4a71-a8ce-959911213449
+
+
+
+
+[Source](https://www.youtube.com/watch?app=desktop&v=LACbVhgtx9I&t=0s)
 
 I LOVE MUFFIN (time).
 
